@@ -1,0 +1,3 @@
+The file named App.py and all other files within this file directory, excluding this readMe, was a part of the Congressional Coding Challenge in 2022 and placed third for the region it was competeing in. The goal was develop an app idea and give a rough lay out how the app would work, the app by no means had to be functional. The file named App.py used a python library named Kivy to develop the graphical representation of the app. The artwork used in this program was not developed by me, but by another member of my team for this competition submission; however, I wrote all code associted with this submission. 
+
+Year code was created: 2020
